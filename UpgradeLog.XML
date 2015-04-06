@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TEXTEDITOR PRO">
+</Property><Property Name="Solution File" Value="C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\TEXTEDITOR PRO.sln">
+</Property><Property Name="User Options File" Value="C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\TEXTEDITOR PRO.suo">
+</Property><Property Name="Date" Value="Saturday, October 15, 2011">
+</Property><Property Name="Time" Value="17:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TEXTEDITOR PRO.sln" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\TEXTEDITOR PRO.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TEXTEDITOR PRO.suo" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\TEXTEDITOR PRO.suo">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\TEXTEDITOR.csproj" Description="Project file successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\TEXTEDITOR.csproj">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\AboutBox1.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\AboutBox1.Designer.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Form1.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Form1.Designer.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\splash.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\splash.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\splash.Designer.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\splash.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Program.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Program.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\ClassDiagram1.cd" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Properties\Settings.settings" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Applications.ico" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Applications.ico">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\AboutBox1.resx" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Form1.resx" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\splash.resx" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\splash.resx">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\Properties\Resources.resx" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\Backup\WindowsFormsApplication1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\TEXTEDITOR.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TEXTEDITOR" Source="WindowsFormsApplication1\TEXTEDITOR.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TEXTEDITOR PRO.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TEXTEDITOR PRO.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TEXTEDITOR" Source="WindowsFormsApplication1\TEXTEDITOR.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

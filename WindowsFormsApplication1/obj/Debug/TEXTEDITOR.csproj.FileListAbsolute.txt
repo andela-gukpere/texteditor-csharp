@@ -1,0 +1,41 @@
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TEXT EDiTOR.exe
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TEXT EDiTOR.pdb
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TEXTEDITOR.csproj.GenerateResource.Cache
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TEXT EDiTOR.exe
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TEXT EDiTOR.pdb
+E:\Users\rdp\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.splash.resources
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\TEXT EDiTOR.exe
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\TEXT EDiTOR.pdb
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\bin\Debug\TEXT EDiTOR.exe
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\bin\Debug\TEXT EDiTOR.pdb
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.splash.resources
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\TEXTEDITOR.csproj.GenerateResource.Cache
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\bin\Debug\TEXT EDiTOR.exe
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\bin\Debug\TEXT EDiTOR.pdb
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.splash.resources
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\TEXTEDITOR.csproj.GenerateResource.Cache
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\TEXT EDiTOR.exe
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\TEXT EDiTOR.pdb
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\bin\Debug\TEXT EDiTOR.exe
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\bin\Debug\TEXT EDiTOR.pdb
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.splash.resources
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\ResGen.read.1.tlog
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\ResGen.write.1.tlog
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\TEXT EDiTOR.exe
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\TEXT EDiTOR.pdb
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\Texteditor\WindowsFormsApplication1\obj\Debug\TEXTEDITOR.csprojResolveAssemblyReference.cache
